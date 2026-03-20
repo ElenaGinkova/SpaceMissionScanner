@@ -1,4 +1,3 @@
-# SpaceMissionScanner
 # Space Missions Scanner
 
 ## About the Project
